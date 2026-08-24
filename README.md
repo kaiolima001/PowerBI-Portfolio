@@ -23,6 +23,6 @@ Projects inspired by Business Intelligence, Analytics, Data Quality and ETL scen
 
 ## Projects
 
-- [(./Executive_KPI_Dashboard.md)]
+- [./Executive_KPI_Dashboard.md] (https://github.com/kaiolima001/PowerBI-Portfolio/blob/main/Executive_KPI_Dashboard.md)
 
 - [./Data_Collection_Pipeline.md]

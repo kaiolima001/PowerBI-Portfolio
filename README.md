@@ -23,5 +23,5 @@ Projects inspired by Business Intelligence, Analytics, Data Quality and ETL scen
 
 ## Projects
 
-- Executive KPI Dashboard
-- Automated Data Collection Pipeline
+- Executive_KPI_Dashboard.md
+- Data_Collection_Pipeline.md

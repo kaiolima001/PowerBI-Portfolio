@@ -17,6 +17,6 @@ Collection of Business Intelligence projects focused on KPI development, dashboa
 - Business Performance Monitoring
 - Decision Support
 
-## Professional Background
+## Portfolio Overview
 
-Projects inspired by real-world Business Intelligence scenarios involving operational indicators, strategic KPIs and analytical reporting.
+Projects inspired by Business Intelligence, Analytics, Data Quality and ETL scenarios focused on decision support and process improvement.

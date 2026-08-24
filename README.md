@@ -20,3 +20,8 @@ Collection of Business Intelligence projects focused on KPI development, dashboa
 ## Portfolio Overview
 
 Projects inspired by Business Intelligence, Analytics, Data Quality and ETL scenarios focused on decision support and process improvement.
+
+## Projects
+
+- Executive KPI Dashboard
+- Automated Data Collection Pipeline

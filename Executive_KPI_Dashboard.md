@@ -21,6 +21,7 @@ Develop an executive dashboard to monitor strategic business indicators and supp
 - Improved KPI visibility
 - Faster access to information
 - Support for executive decision-making
+- Reduced manual reporting effort
 
 ## Notes
 
@@ -32,4 +33,3 @@ Project description based on professional experience. No confidential or proprie
 - Power Query
 - KPI Development
 - Business Intelligence
-- Reduced manual reporting effort

@@ -22,6 +22,7 @@ Automate the collection, processing and publication of business information.
 - Reduced manual effort
 - Improved data reliability
 - Faster reporting cycle
+- Improved process standardization
 
 ## Skills Demonstrated 
 - Power BI Service

@@ -32,3 +32,4 @@ Project description based on professional experience. No confidential or proprie
 - Power Query
 - KPI Development
 - Business Intelligence
+- Reduced manual reporting effort

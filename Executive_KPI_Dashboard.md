@@ -25,3 +25,10 @@ Develop an executive dashboard to monitor strategic business indicators and supp
 ## Notes
 
 Project description based on professional experience. No confidential or proprietary data is included.
+
+## Skills Demonstrated 
+- Power BI
+- DAX
+- Power Query
+- KPI Development
+- Business Intelligence

@@ -22,3 +22,10 @@ Automate the collection, processing and publication of business information.
 - Reduced manual effort
 - Improved data reliability
 - Faster reporting cycle
+
+## Skills Demonstrated 
+- Power BI Service
+- Power Query
+- Data Integration
+- KPI Automation
+- Data Analytics
